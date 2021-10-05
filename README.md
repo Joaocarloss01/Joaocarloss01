@@ -1,5 +1,5 @@
 ## ola! eu sou o joao carlos 👋
- ### atualmente estudando analise desenvolvimento de sistemas.
+ ### atualmente estudando analise desenvolvimento de sistemas / tecnico desenvolvimento de software 
 
 [![instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaocarloss01)
 [![facebook ](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/joaocarloss01)
